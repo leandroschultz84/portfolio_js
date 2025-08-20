@@ -1,0 +1,85 @@
+{
+  "name": "Leandro Schultz",
+  "photo": "https://avatars.githubusercontent.com/u/122171052?v=4",
+  "job": "Analista De Suporte",
+  "location": "São Paulo, Brazil",
+  "phone": "(11) 94839-1938",
+  "email": "recompensa.suporte@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/html_icon.svg"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/css_icon.svg"
+      },
+      
+      {
+        "name": "Java Script",
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/javascript_icon.svg"
+      },
+      {
+        "name": "C",
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/c_icon.svg"
+      },
+      {
+        "name": "Figma",
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/figma_icon.svg"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Curiosidade"
+    ]
+  },
+  "languages": [
+    "Português BR - Nativo",
+    "Inglês - Básico"
+    
+    
+  ],
+  "portfolio": [
+    
+    {
+      "name": "Curso Ministrado pela Alura para criação de página informativa e responsiva",
+      "url": "https://github.com/leandroschultz84/alura_plus",
+      "github": true
+    },
+    
+    
+    {
+      "name": "Curso Ministrado na DIO para a criação de um Arcade",
+      "url": "https://github.com/leandroschultz84/jokempo_arcade",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/leandroschultz84/pokedex_web",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Analista De Suporte / Fast Solution",
+      "period": "2023 - até o presente momento",
+      "description": "É gratificante colaborar com profissionais dedicados e oferecer suporte técnico que garante eficiência e continuidade às operações das empresas."
+
+    },
+    {
+      "name": "Portfólio pessoal com HTML e CSS / Alura",
+      "period": "2024 - até o presente momento",
+      "description": "Projetos desenvolvidos durante meus estudos na Alura, com o objetivo de apresentar minha trajetória profissional, habilidades e projetos"
+    },
+    {
+      "name": "Portfólio pessoal com HTML, CSS e JavaScript / DIO",
+      "period": "2024",
+      "description": "Durante minha jornada de estudos na DIO, desenvolvi diversos projetos práticos que consolidaram meus conhecimentos em desenvolvimento web e programação"
+    }
+  ]
+}

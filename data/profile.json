@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        "logo": "https://github.com/leandroschultz84/portfolio_js/blob/main/assets/html_icon.svg"
       },
       {
         "name": "Css",
@@ -42,6 +42,14 @@
     "Inglês - Básico"
   ],
   "portfolio": [
+    
+    {
+      "name": "Curso Ministrado na DIO para criação de portfolio",
+      "url": "https://github.com/leandroschultz84/portfolio_html",
+      "github": true
+    },
+    
+    
     {
       "name": "Curso Ministrado pela Alura para criação de página informativa e responsiva",
       "url": "https://github.com/leandroschultz84/alura_plus",

@@ -24,7 +24,7 @@ async function fetchProfileData() {
   const hardSkills = document.getElementById('profile.skills.hardSkills');
   profileData.skills.hardSkills.forEach(skill => {
     const li = document.createElement('li');
-    li.innerHTML = `<img src="${skill.logo}" alt="${skill.name}" title="${skill.name}">`;
+    li.innerHTML = `<img src="${skill.logo}" alt="${skill.name}" title="${skill.name}" width="60" height="60">`;
     hardSkills.appendChild(li);
   });
 
@@ -57,10 +57,19 @@ async function fetchProfileData() {
 
   // Experiência Profissional
   const experience = document.getElementById('profile.professionalExperience');
-  experience.innerHTML = '';
-  profileData.professionalExperience.forEach(job => {
-    const li = document.createElement('li');
-    li.innerHTML = `<h3>${job.name}</h3><p>${job.period}</p><p>${job.description}</p>`;
-    experience.appendChild(li);
-  });
+experience.innerHTML = '';
+
+profileData.professionalExperience.forEach(job => {
+  const li = document.createElement('li');
+
+  li.innerHTML = `
+    <h3>${job.name}</h3>
+    <p class="period">${job.period}</p>
+    <p>${job.description}</p>
+  `;
+
+  experience.appendChild(li);
+});
+
+
 })();

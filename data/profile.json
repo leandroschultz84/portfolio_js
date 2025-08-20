@@ -8,14 +8,13 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Html",
-        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/html_icon.svg"
+        "name": "HTML",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       },
       {
         "name": "Css",
         "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/css_icon.svg"
       },
-      
       {
         "name": "Java Script",
         "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/javascript_icon.svg"
@@ -27,8 +26,7 @@
       {
         "name": "Figma",
         "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/figma_icon.svg"
-    }
-    
+      }
     ],
     "softSkills": [
       "Empatia",
@@ -42,18 +40,13 @@
   "languages": [
     "Português BR - Nativo",
     "Inglês - Básico"
-    
-    
   ],
   "portfolio": [
-    
     {
       "name": "Curso Ministrado pela Alura para criação de página informativa e responsiva",
       "url": "https://github.com/leandroschultz84/alura_plus",
       "github": true
     },
-    
-    
     {
       "name": "Curso Ministrado na DIO para a criação de um Arcade",
       "url": "https://github.com/leandroschultz84/jokempo_arcade",
@@ -70,7 +63,6 @@
       "name": "Analista De Suporte / Fast Solution",
       "period": "2023 - até o presente momento",
       "description": "É gratificante colaborar com profissionais dedicados e oferecer suporte técnico que garante eficiência e continuidade às operações das empresas."
-
     },
     {
       "name": "Portfólio pessoal com HTML e CSS / Alura",
@@ -79,7 +71,7 @@
     },
     {
       "name": "Portfólio pessoal com HTML, CSS e JavaScript / DIO",
-      "period": "2024",
+      "period": "2024 - até o presente momento",
       "description": "Durante minha jornada de estudos na DIO, desenvolvi diversos projetos práticos que consolidaram meus conhecimentos em desenvolvimento web e programação"
     }
   ]

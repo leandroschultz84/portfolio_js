@@ -9,25 +9,26 @@
     "hardSkills": [
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/html_icon.svg"
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/html_icon.svg"
       },
       {
         "name": "Css",
-        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/css_icon.svg"
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/css_icon.svg"
       },
       
       {
         "name": "Java Script",
-        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/javascript_icon.svg"
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/javascript_icon.svg"
       },
       {
         "name": "C",
-        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/c_icon.svg"
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/c_icon.svg"
       },
       {
         "name": "Figma",
-        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/refs/heads/main/assets/figma_icon.svg"
-      }
+        "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/figma_icon.svg"
+    }
+    
     ],
     "softSkills": [
       "Empatia",

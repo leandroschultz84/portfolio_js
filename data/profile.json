@@ -8,8 +8,11 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "HTML",
-        "logo": "https://github.com/leandroschultz84/portfolio_js/blob/main/assets/html_icon.svg"
+        
+        
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/leandroschultz84/portfolio_js/main/assets/html_logo.svg"
+        
       },
       {
         "name": "Css",

@@ -22,11 +22,18 @@ async function fetchProfileData() {
 
   // Hard Skills
   const hardSkills = document.getElementById('profile.skills.hardSkills');
-  profileData.skills.hardSkills.forEach(skill => {
-    const li = document.createElement('li');
+profileData.skills.hardSkills.forEach(skill => {
+  const li = document.createElement('li');
+
+  // Verifica se é um SVG inline (começa com <svg)
+  if (skill.logo.trim().startsWith('<svg')) {
+    li.innerHTML = skill.logo; // Insere o SVG diretamente
+  } else {
     li.innerHTML = `<img src="${skill.logo}" alt="${skill.name}" title="${skill.name}" width="60" height="60">`;
-    hardSkills.appendChild(li);
-  });
+  }
+
+  hardSkills.appendChild(li);
+});
 
   // Soft Skills
   const softSkills = document.getElementById('profile.skills.softSkills');
